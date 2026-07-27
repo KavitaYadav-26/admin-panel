@@ -19,7 +19,7 @@ function Sidebar() {
                 </small>
             </div>
 
-            <ul className="nav flex-column position-fixed">
+            <ul className="nav flex-column">
 
                 <li className="nav-item mb-3">
                     <NavLink to="/"

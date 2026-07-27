@@ -71,3 +71,8 @@
     font-size:15px;
     font-weight:600;
 }
+.bg-orange{
+    background-color: #ff7a1a;
+    color: white;
+    margin: auto;
+}

@@ -125,7 +125,7 @@ function Dashboard() {
                                 <h6 className="mb-0">Rahul Sharma</h6>
                                 <small className="text-muted">UI Designer</small>
                             </div>
-                            <span className="badge bg-success">Active</span>
+                            <span className="badge bg-orange">Active</span>
                         </div>
 
                         <div className="d-flex justify-content-between mb-3">
@@ -133,7 +133,7 @@ function Dashboard() {
                                 <h6 className="mb-0">Priya Singh</h6>
                                 <small className="text-muted">Frontend Developer</small>
                             </div>
-                            <span className="badge bg-warning text-dark">Pending</span>
+                            <span className="badge bg-warning m-auto text-dark">Pending</span>
                         </div>
 
                         <div className="d-flex justify-content-between mb-3">
@@ -141,7 +141,7 @@ function Dashboard() {
                                 <h6 className="mb-0">Amit Verma</h6>
                                 <small className="text-muted">Backend Developer</small>
                             </div>
-                            <span className="badge bg-primary">New</span>
+                            <span className="badge bg-primary m-auto">New</span>
                         </div>
 
                         <div className="d-flex justify-content-between">
@@ -149,7 +149,7 @@ function Dashboard() {
                                 <h6 className="mb-0">Sneha Gupta</h6>
                                 <small className="text-muted">HR Manager</small>
                             </div>
-                            <span className="badge bg-danger">Offline</span>
+                            <span className="badge bg-danger m-auto">Offline</span>
                         </div>
 
                     </div>
